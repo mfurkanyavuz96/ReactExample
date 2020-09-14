@@ -1,0 +1,62 @@
+.mt-1 {
+    margin-top: 100px;
+    width: 50%;
+  }
+
+.button1 {
+    background-color: #ffffff;
+    color: #172C49;
+    width: 100%;
+    border: none;
+    padding: 5px 10px 5px 25px;
+}
+.button2 {
+    background-color: #EBECEF;
+    color: #172C49;
+    width: 100%;
+    border: none;
+    padding: 5px 10px 5px 25px;
+}
+.button1:hover {
+    background-color: #ccc593; 
+    color: #172C49;
+  }
+.button2:hover {
+    background-color: #ccc593; 
+    color: #172C49;
+  }
+.left-half {
+position: absolute;
+left: 0px;
+width: 60%;
+}
+
+.right-half {
+position: absolute;
+right: 0px;
+width: 40%;
+}
+.index {
+    padding-top: 50px;
+    padding-left: 50px;
+    background-color: #172C49;
+}
+
+.container {
+    width: 100%;
+    height: 160px;
+    background: #EBECEF;
+    margin: auto;
+    padding: 10px;
+  }
+  
+  .one {
+    width: 50%;
+    height: 80px;
+    float: left;
+  }
+  
+  .two {
+    margin-left: 15%;
+    height: 80px;
+  }
